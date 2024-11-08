@@ -1,0 +1,14 @@
+D:\Escritorio\pp\EmbedApplications\bin\Debug\net8.0-windows\EmbedApplications.exe
+D:\Escritorio\pp\EmbedApplications\bin\Debug\net8.0-windows\EmbedApplications.deps.json
+D:\Escritorio\pp\EmbedApplications\bin\Debug\net8.0-windows\EmbedApplications.runtimeconfig.json
+D:\Escritorio\pp\EmbedApplications\bin\Debug\net8.0-windows\EmbedApplications.dll
+D:\Escritorio\pp\EmbedApplications\bin\Debug\net8.0-windows\EmbedApplications.pdb
+D:\Escritorio\pp\EmbedApplications\obj\Debug\net8.0-windows\EmbedApplications.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\pp\EmbedApplications\obj\Debug\net8.0-windows\EmbedApplications.AssemblyInfoInputs.cache
+D:\Escritorio\pp\EmbedApplications\obj\Debug\net8.0-windows\EmbedApplications.AssemblyInfo.cs
+D:\Escritorio\pp\EmbedApplications\obj\Debug\net8.0-windows\EmbedApplications.csproj.CoreCompileInputs.cache
+D:\Escritorio\pp\EmbedApplications\obj\Debug\net8.0-windows\EmbedApplications.dll
+D:\Escritorio\pp\EmbedApplications\obj\Debug\net8.0-windows\refint\EmbedApplications.dll
+D:\Escritorio\pp\EmbedApplications\obj\Debug\net8.0-windows\EmbedApplications.pdb
+D:\Escritorio\pp\EmbedApplications\obj\Debug\net8.0-windows\EmbedApplications.genruntimeconfig.cache
+D:\Escritorio\pp\EmbedApplications\obj\Debug\net8.0-windows\ref\EmbedApplications.dll
